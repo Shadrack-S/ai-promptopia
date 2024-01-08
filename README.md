@@ -18,6 +18,8 @@ MONGODB_URI = Your Secret
 
 
 NEXTAUTH_URL = Your Secret
+
+
 NEXTAUTH_URL_INTERNAL = Your Secret
 
 NEXTAUTH_SECRET = Your Secret
